@@ -1,4 +1,4 @@
-# Whatsapp-Group-Contacts-Scraper
+# React+Webpack Integration
 
 This is a repository that will help you get started with react webpack integration.(can use es6 syntax, import images(jpg, jpeg, png, gif, svg) and style sheet (css, scss))
 
